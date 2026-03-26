@@ -1,0 +1,7 @@
+2026-03-26 19:21:22,305 - INFO - Job started
+2026-03-26 19:21:22,305 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-03-26 19:21:22,354 - INFO - Rows loaded: 10000
+2026-03-26 19:21:22,354 - INFO - Processing step: computing rolling mean
+2026-03-26 19:21:22,355 - INFO - Processing step: generating binary signal
+2026-03-26 19:21:22,357 - INFO - Metrics: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.4991, 'latency_ms': 53, 'seed': 42, 'status': 'success'}
+2026-03-26 19:21:22,359 - INFO - Job completed successfully
